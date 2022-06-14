@@ -1,7 +1,7 @@
 from urllib import request
 import json, os
 
-TOKEN = os.environ.get('6552374442')
+TOKEN = os.environ.get('3619167286')
 
 api = 'https://www.sxgqt.org.cn/h5sxapiv2/'
 checkTokenUrl = 'checktoken'
